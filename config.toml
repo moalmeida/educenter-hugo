@@ -181,43 +181,32 @@ title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
 
+[languages]
 
-################################### Portuguese language #####################################
-[Languages.pt]
-languageName = "Pt"
-languageCode = "pt-br"
-contentDir = "content/pt"
-weight = 1
-home = "Inicio"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+  [languages.pt]
+  languageName = "Pt"
+  languageCode = "pt-br"
+  contentDir = "content/pt"
+  weight = 1
+  home = "Inicio"
 
-################################### English language #####################################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/en"
-weight = 2
-home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+  [languages.en]
+  languageName = "En"
+  languageCode = "en-us"
+  contentDir = "content/en"
+  weight = 2
+  home = "Home"
 
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/fr"
-weight = 3
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+  [languages.fr]
+  languageName = "Fr"
+  languageCode = "fr-fr"
+  contentDir = "content/fr"
+  weight = 3
+  home = "Accueil"
 
-################################### Spanish language #####################################
-[Languages.es]
-languageName = "Es"
-languageCode = "es-es"
-contentDir = "content/es"
-weight = 4
-home = "Inicio"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+  [languages.es]
+  languageName = "Es"
+  languageCode = "es-es"
+  contentDir = "content/es"
+  weight = 4
+  home = "Inicio"
