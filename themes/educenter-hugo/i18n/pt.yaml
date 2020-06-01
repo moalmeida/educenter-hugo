@@ -1,20 +1,20 @@
 - id: read_more
-  translation: Read More
+  translation: Saiba Mais
 
 - id: contact_form
-  translation: Contact Form
+  translation: Contato
 
 - id: send
-  translation: send message
+  translation: enviar
 
 - id: contact_info
   translation: Contact Info
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Assinar Newsletter
 
 - id: subscribe
-  translation: Subscribe
+  translation: Assine
 
 - id: contact_us
   translation: Contact Us
@@ -23,34 +23,34 @@
   translation: Latest Article
 
 - id: categories
-  translation: Categories
+  translation: Categorias
 
 - id: tags
   translation: Tags
 
 - id: see_all
-  translation: See all
+  translation: Veja tudo
 
 - id: apply_now
   translation: Apply now
 
 - id: posted_by
-  translation: Posted by
+  translation: Postado por
 
 - id: date
-  translation: Date
+  translation: Data
 
 - id: time
-  translation: time
+  translation: hora
 
 - id: category
-  translation: Category
+  translation: Categoria
 
 - id: related_course
   translation: Related Course
 
 - id: duration
-  translation: duration
+  translation: duração
 
 - id: weekly
   translation: weekly
