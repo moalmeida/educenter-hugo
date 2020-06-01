@@ -10,7 +10,7 @@ summaryLength = "10"
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
-
+defaultContentLanguage = "pt"
 
 ############################# Plugins ##############################
 
@@ -182,23 +182,42 @@ icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 
+################################### Portuguese language #####################################
+[Languages.pt]
+languageName = "Pt"
+languageCode = "pt-br"
+contentDir = "content/pt"
+weight = 1
+home = "Inicio"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/en"
-weight = 1
+weight = 2
 home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
 
 ################################### French language #####################################
 [Languages.fr]
 languageName = "Fr"
 languageCode = "fr-fr"
 contentDir = "content/fr"
-weight = 2
+weight = 3
 home = "Accueil"
+# copyright
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+
+################################### Spanish language #####################################
+[Languages.es]
+languageName = "Es"
+languageCode = "es-es"
+contentDir = "content/es"
+weight = 4
+home = "Inicio"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
