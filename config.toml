@@ -161,28 +161,28 @@ link = "#"
 [languages]
 
   [languages.pt]
-  languageName = "Pt"
+  languageName = "PT"
   languageCode = "pt-br"
   contentDir = "content/pt"
   weight = 1
   home = "Inicio"
 
   [languages.en]
-  languageName = "En"
+  languageName = "EN"
   languageCode = "en-us"
   contentDir = "content/en"
   weight = 2
   home = "Home"
 
   [languages.fr]
-  languageName = "Fr"
+  languageName = "FR"
   languageCode = "fr-fr"
   contentDir = "content/fr"
   weight = 3
   home = "Accueil"
 
   [languages.es]
-  languageName = "Es"
+  languageName = "ES"
   languageCode = "es-es"
   contentDir = "content/es"
   weight = 4

@@ -13,7 +13,8 @@ VERSION:	Versoin Number
   font-family: 'futura-bold';
   src: url("../fonts/Futura-Bold.woff") format("woff");
   font-weight: normal;
-  font-style: normal; }
+  font-style: normal;
+  font-display: swap; }
 
 body {
   line-height: 1.2;
@@ -202,8 +203,8 @@ a h4:hover {
     width: 100%;
     top: 0;
     left: 0;
-    background: #fff;
-    opacity: .7; }
+    background: gray;
+    opacity: .8; }
 
 .outline-0 {
   outline: 0 !important; }
