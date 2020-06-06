@@ -1,0 +1,7 @@
+enable : true
+subtitle : "Cliquez pour vous joindre à l’atelier avancé"
+title : "Apprentissage en réseautique avancée"
+button:
+  enable : true
+  label : "Se joindre"
+  link : "contact"

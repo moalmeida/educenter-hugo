@@ -733,14 +733,14 @@ link:focus,
   height: 90px; }
 
 .bg-footer {
-  background-color: #d8d8d8; }
+  background-color: #888; }
 
 .logo-footer {
   margin-top: -20px;
   display: inline-block; }
 
 .footer {
-  border-color: #ccc !important;
+  border-color: #000 !important;
   padding-top: 275px; }
 
 /* /footer */

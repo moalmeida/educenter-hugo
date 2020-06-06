@@ -1,0 +1,19 @@
+enable : true
+funfact_item:
+  # funfact item loop
+  - name : "TEACHERS"
+    count : "60"
+
+  # funfact item loop
+  - name : "COURSES"
+    count : "50"
+
+  # funfact item loop
+  - name : "STUDENTS"
+    count : "1000"
+
+  # funfact item loop
+  - name : "SATISFIED CLIENT"
+    count : "1400"
+
+# funfact is for about page

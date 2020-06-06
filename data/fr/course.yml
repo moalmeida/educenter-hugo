@@ -1,0 +1,3 @@
+enable : true
+title : "Notre cours"
+# course item comes from "content/**/course" folder.

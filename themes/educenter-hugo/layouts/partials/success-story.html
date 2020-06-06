@@ -1,6 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-{{ with $data.homepage.success_story }}
+{{ with $data.success_story }}
 <section class="section bg-cover" data-background="{{ .bg_image | absURL }}">
   <div class="container">
     <div class="row">
