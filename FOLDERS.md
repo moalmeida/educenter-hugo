@@ -1,6 +1,13 @@
+# GENERIC
 
+## INTERNATIONALIZATION DATA
 
-### ABOUT PAGE
+-- themes
+  -- educenter-hugo
+    -- i18n
+      en.yml
+
+# ABOUT PAGE
 
 -- content
   -- en
