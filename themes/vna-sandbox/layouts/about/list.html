@@ -8,7 +8,10 @@
     <div class="row">
       <div class="col-12">
         {{ with .Params.Image }}
-        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
+        ​<picture>
+            <source srcset="{{ . | relURL }}" type="image/svg+xml">
+            <img src="{{ . | relURL }}" data-src="{{ . | relURL }}" class="img-fluid w-100 mb-4" alt="about">
+        </picture>
         {{ end }}
         {{ .Content }}
       </div>
