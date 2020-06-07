@@ -1,7 +1,7 @@
 
 baseURL = "http://examplesite.org"
 title = "Educenter | hugo education template"
-theme = "educenter-hugo"
+theme = "vna-sandbox"
 paginate = "6"
 summaryLength = "10"
 disqusShortname = "educenter" # get your shortname form here : https://disqus.com
