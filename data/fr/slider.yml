@@ -1,5 +1,6 @@
 enable : true
-bg_image : "images/banner/banner-1.jpg"
+# bg_image : "images/banner/banner-1.jpg"
+bg_image : "images/tribal_hunter.jpg"
 slider_item:
   # slider item loop
   - title : "Votre brillant avenir est notre mission"

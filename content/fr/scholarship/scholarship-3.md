@@ -2,7 +2,7 @@
 title: "GÉNIE CHIMIQUE"
 
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/bg.png"
 # scholarship image
 image: "images/scholarship/scholarship-item-3.jpg"
 # meta description

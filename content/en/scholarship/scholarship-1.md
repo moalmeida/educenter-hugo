@@ -2,7 +2,7 @@
 title: "CHEMICAL ENGINEERING"
 
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/bg.png"
 # scholarship image
 image: "images/scholarship/scholarship-item-1.jpg"
 # meta description
