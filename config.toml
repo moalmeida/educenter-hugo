@@ -1,11 +1,11 @@
 
 baseURL = "http://examplesite.org"
-title = "Educenter | hugo education template"
+title = "VNA | "
 theme = "vna-sandbox"
 paginate = "6"
 summaryLength = "10"
-disqusShortname = "educenter" # get your shortname form here : https://disqus.com
-disableLanguages = [] # desable language from here
+disqusShortname = "vna"
+disableLanguages = []
 defaultContentLanguage = "pt"
 
 [[params.plugins.css]]
